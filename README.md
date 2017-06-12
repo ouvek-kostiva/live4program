@@ -9,3 +9,5 @@ ________________________________________
 #### [Ep2 資料型態 判斷 迴圈](https://www.youtube.com/watch?v=bPCpJQmSKqg)
 
 #### [Ep3 函數](https://www.youtube.com/watch?v=PtJhbc-8m5U)
+
+#### [Ep4 利用 Google API 抓取股市資料](https://youtu.be/yytaKCsP5R0)
